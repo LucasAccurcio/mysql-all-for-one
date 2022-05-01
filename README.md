@@ -1,13 +1,14 @@
-# Projeto MySQL All for One ![logo-MySql](/logoMySql.png):
-
+# Projeto MySQL All for One
+        
 ## Contexto :bookmark_tabs:
 
 Neste projeto, foi possível praticar todos os conceitos de SQL aprendidos, resolvendo uma série de desafios com diferentes níveis de complexidade, que foram resolvidos cada um em seu arquivo próprio.
 
-
 ## Técnologias usadas :technologist:
 
 Projeto desenvolvido em MySQL.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100px"/>
 
 ## Habilidades
 
