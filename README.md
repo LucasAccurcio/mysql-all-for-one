@@ -2,7 +2,7 @@
 
 ## Contexto :bookmark_tabs:
 
-Neste projeto, foi possível praticar todos os conceitos de SQL aprendidos, resolvendo uma série de desafios com diferentes níveis de complexidade, que foram resolvidos cada um em seu arquivo próprio..
+Neste projeto, foi possível praticar todos os conceitos de SQL aprendidos, resolvendo uma série de desafios com diferentes níveis de complexidade, que foram resolvidos cada um em seu arquivo próprio.
 
 
 ## Técnologias usadas :technologist:
